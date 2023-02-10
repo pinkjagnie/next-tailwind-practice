@@ -9,3 +9,6 @@ html {
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 }
   
+.custom-img {
+  background-image: url("https://images.unsplash.com/photo-1542992933-ce75d0187ec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+}
